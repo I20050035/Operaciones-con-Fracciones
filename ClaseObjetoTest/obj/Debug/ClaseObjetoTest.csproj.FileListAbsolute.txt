@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\bin\Debug\ClaseObjetoTest.exe.config
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\bin\Debug\ClaseObjetoTest.exe
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\bin\Debug\ClaseObjetoTest.pdb
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetosTest.Form1.resources
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.exe
+C:\Users\Usuario\source\repos\ClaseObjetoTest\ClaseObjetoTest\obj\Debug\ClaseObjetoTest.pdb
